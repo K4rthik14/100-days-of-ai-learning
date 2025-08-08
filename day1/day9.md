@@ -2,6 +2,9 @@
 
 half day college
 hostel to home-5h travel
-small dsa to stay consistent
-now watching MIT 6.S087-Lec2
+small dsa to stay consistent,
+small amount of ml
+doing some python program now,
+hackathon setup;
+
 
